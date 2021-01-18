@@ -15,3 +15,8 @@ Our Team Members:
 
 ### Design
 Please see our [presentation](https://docs.google.com/presentation/d/1IBF5bdylh-nJhZEzfKIU4ohMHe6mA8C0uahB3lWlNFY/edit) for the high-level idea.
+
+### Contribution
+For all new discussions, please use [Tichi](https://github.com/ti-community-infra/tichi).
+
+You could locate the newest version at [Tichi-chignwei](https://github.com/ti-community-infra/tichi/tree/chingwei).
