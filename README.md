@@ -1,6 +1,6 @@
 ## ☯️ :dove: Tichi-chingwei
 
-An fully automated bug reproduction CI robot for TiDB, based on [Tichi](https://github.com/ti-community-infra/tichi).
+A fully automated bug reproduction CI robot for TiDB, based on [Tichi](https://github.com/ti-community-infra/tichi).
 
 This tool is ranked **#15** in [TiDB Hackathon 2020](https://pingcap.com/community/events/hackathon2020/).
 
